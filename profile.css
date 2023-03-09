@@ -1,0 +1,85 @@
+
+body {
+    overflow: hidden;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h3 {
+    font-family: 'Pretendard-Thin';
+    color: #ffffff;
+    text-align: center;
+    font-style: italic;
+    font-weight: lighter;
+    margin-top: 75px;
+    font-size: 40px;
+}
+
+h4 {
+    font-family: 'Pretendard-Thin';
+    color: #ffffff;
+    text-align: center;
+    font-style: italic;
+    font-weight: lighter;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.menu * {
+    display: inline;
+}
+
+.menu li {
+    margin: 35px;
+}
+
+.menu li a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+.menu ul {
+    padding-left: 0px;
+}
+
+.menu {
+    font-size: 30px;
+    font-style: italic;
+    align-items: center;
+    text-align: center;
+    padding-top: 75px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 80px;
+} 
+
+.one {
+    background-size: cover;
+    text-align: center;
+    padding-top: 300px;
+    padding-bottom: 130px;
+}
+
+.profile {
+    border-radius: 40%;
+    display: inline-block;
+    padding: 0.5rem;
+    margin-top: 20px;
+    border: 1px solid gray;
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgb(255, 255, 255, 0.5);
+}
+
+.profile img {
+    border-radius: 40%
+}
+
+.intext {
+    float: right;
+    margin-top: 35px;
+    padding-left: 50px;
+font-size: 20px;
+
+}
+
